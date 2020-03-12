@@ -1,0 +1,92 @@
+ 
+  
+<html>
+<head>
+20171cse0369 <title>resume</title></head>
+<table align="center" bgcolor="lightyellow">
+<tr>
+<td>
+<body >
+ 
+<img src="nature.jpg" alt="nature" style="float:right;height:80px;width:70px;">
+<p><b>Manish B Patel</b></p> 
+ 
+<a href="https://accounts.google.com/ServiceLogin/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&flowName=GlifWebSignIn&flowEntry=AddSession">EMAIL</a>
+
+<p> Phone number:123456789</p><br />
+<hr color="blue" />
+
+<dl>
+<dt>CV Highlights</dt>
+<br />
+<dd><ul><li>web application</li>
+<li>python</li>
+<li>java </li>
+<li>tally</li>
+</dd>
+</dl>
+
+
+<hr color="white" />
+<dl>
+<dt>Professional Experience</dt><br />
+<dd><ul><li>Unique waves consultancy<br /><dl><dd>job responsibities<br /><ul type="circle"><li>salesperson</li>
+<li>customer enquiry</li> <li>purchase maintainances</li> </dd></dl> </li></ul>
+<hr color="white" />
+
+
+<table border="2"  >
+<tr bgcolor="lightpink">
+<th>Board</th>
+<th>College</th>
+<th>Percentage</th>
+<th>years</th>
+</tr>
+<tr bgcolor="white">
+<td>karnataka board</td>
+<td>oxford english school</td>
+<td>89.28%</td>
+<td>2015</td>
+</tr>
+<tr bgcolor="white">
+<td>secondary education</td>
+<td>nagarjuna puc collage</td>
+<td>90%</td>
+<td>2017</td>
+</tr>
+</table>
+<hr color="white" />
+
+<dl>
+<dt>Technical Skills</dt>
+<dd><ul><li>Programming language:python,java,c++</li><li>Others:Mysql,html,css</li></ul></dd></dl>
+<hr color="white"/>
+
+<dl>
+<dt>Hobbies</dt>
+<dd><ul><li>listening to music</li><li>watching current affairs</li><li>learning new technology</li></ul></dd></dl>
+<hr color="white"/>
+
+<dl>
+<dt>Certification</dt>
+<dd><ul><li>participant in TCS byte</li><li>Hackthon</li></ul></dd><dl>
+<hr  color="white"/>
+
+<dl>
+<dd align="left">Declaration</dd>
+<dt><ul><li>I hereby declare that the above information or content are true and correct &copy</li></ul></dt></dl>
+
+
+
+
+
+
+
+
+
+
+</body>
+</td>
+</tr>
+</table>
+</html>
